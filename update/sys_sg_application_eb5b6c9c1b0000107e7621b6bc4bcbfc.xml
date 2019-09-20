@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description>View and edit NeedIt records</description>
+        <icon display_value="images">635be4dc1b0000107e7621b6bc4bcb3f</icon>
+        <name>NeedIt</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 08:46:26</sys_created_on>
+        <sys_id>eb5b6c9c1b0000107e7621b6bc4bcbfc</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_application_eb5b6c9c1b0000107e7621b6bc4bcbfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 09:54:40</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=eb5b6c9c1b0000107e7621b6bc4bcbfc"/>
+</record_update>
