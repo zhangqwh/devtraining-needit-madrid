@@ -10,7 +10,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">bb1017a51b7333007e7621b6bc4bcb1c</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sys_hub_flow_input" sys_domain="global" view="Default view">731017a51b7333007e7621b6bc4bcb2e</sys_ui_section>
+            <sys_ui_section display_value="">731017a51b7333007e7621b6bc4bcb2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-10 07:42:56</sys_updated_on>
         </sys_ui_form_section>
@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">bb1017a51b7333007e7621b6bc4bcb1c</sys_ui_form>
-            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="sys_hub_flow_input" sys_domain="global" view="Default view">7b1017a51b7333007e7621b6bc4bcb2b</sys_ui_section>
+            <sys_ui_section display_value="">7b1017a51b7333007e7621b6bc4bcb2b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-10 07:42:56</sys_updated_on>
         </sys_ui_form_section>
@@ -38,7 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">bb1017a51b7333007e7621b6bc4bcb1c</sys_ui_form>
-            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="sys_hub_flow_input" sys_domain="global" view="Default view">b31017a51b7333007e7621b6bc4bcb32</sys_ui_section>
+            <sys_ui_section display_value="">b31017a51b7333007e7621b6bc4bcb32</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-10 07:42:56</sys_updated_on>
         </sys_ui_form_section>
@@ -52,7 +52,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">bb1017a51b7333007e7621b6bc4bcb1c</sys_ui_form>
-            <sys_ui_section caption="Default Value" display_value="Default Value" name="sys_hub_flow_input" sys_domain="global" view="Default view">ff1017a51b7333007e7621b6bc4bcb30</sys_ui_section>
+            <sys_ui_section display_value="">ff1017a51b7333007e7621b6bc4bcb30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-10 07:42:56</sys_updated_on>
         </sys_ui_form_section>
